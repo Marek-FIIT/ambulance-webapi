@@ -5,8 +5,8 @@ import (
 	"os"
 	"strings"
 
+	"github.com/Marek-FIIT/ambulance-webapi/api"
 	"github.com/gin-gonic/gin"
-	"github.com/marek-FIIT/ambulance-webapi/api"
 )
 
 func main() {
